@@ -1,4 +1,4 @@
-public class bucles {
+public class Ejercicio4 {
     public static void main(String[] args) {
         int num = 9;
             //primer bucle, se ejecuta si i es menor o igual que num para ir aumentando los numeros de uno en uno
