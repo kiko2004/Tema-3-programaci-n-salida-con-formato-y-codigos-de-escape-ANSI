@@ -5,7 +5,7 @@ public class Ejercicio4 {
             for (int i = 1; i <= num; i++) {
            //segundo bucle para imprimir espacios en blanco
             for (int k = 1; k <= i; k++) 
-                System.out.print(k + " ");
+                System.out.printf(k + " ");
             
             System.out.println();
         }
