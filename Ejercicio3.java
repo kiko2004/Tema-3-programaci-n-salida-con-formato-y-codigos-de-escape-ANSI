@@ -6,10 +6,10 @@ public class Ejercicio3 {
            
           //segundo bucle para imprimir los numeros en el orden deseado
              for (int j = 1; j <= num - i; j++) 
-                System.out.print("  ");
+                System.out.printf("  ");
          //tercer bucle para imprimir espacios en blanco
             for (int k = 1; k <= i; k++) 
-                System.out.print(k + " ");
+                System.out.printf(k + " ");
             
             System.out.println();
         }
