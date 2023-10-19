@@ -7,7 +7,7 @@ public class Ejercicio4 {
             for (int k = 1; k <= i; k++) 
                 System.out.printf(k + " ");
             
-            System.out.println();
+            System.out.println(i);
         }
     }
 }
